@@ -1,0 +1,16 @@
+
+
+.cart-item{
+    display: inline-flex;
+    padding: 20px;
+}
+
+.cart-item-right{
+    padding:10px;
+}
+
+.action-item{
+    width: 20px;
+    height: 20px;
+    padding: 2px;
+}
