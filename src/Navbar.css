@@ -1,0 +1,18 @@
+
+
+.navbar{
+    height: 70px;
+    display: flex;
+    justify-content: flex-end;
+    background-color: blue;
+}
+.ecartImage{
+    width: 40px;
+    height: 40px;
+    padding-top: 10px;
+}
+.cartCount{
+    background-color: yellow;
+    font-size: large;
+    font-weight: bold;
+}
